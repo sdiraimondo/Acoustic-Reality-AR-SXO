@@ -2,13 +2,16 @@
 
 A decade ago Acoustic Reality invented a capacitor-less serial crossover design for 2-way loudspeakers. Acoustic Reality has released the invention under the General Public License (GNU).
 
-Peter Thomsen,  Acoustic Reality - Denmark : I made the intention in year 2000. After several tests and analysis I released my AR-SXO hardware invention under the General Public License (GNU) in 2001, and it is still working :-)
+Peter Thomsen,  Acoustic Reality - Denmark : *I made the intention in year 2000. After several tests and analysis I released my AR-SXO hardware invention under the General Public License (GNU) in 2001, and it is still working :-)*
 
 Mirror of http://web.archive.org/web/20110902214134/http:/arhifi.dk/store/product.php?id_product=22
+
 
 ## Introduction
 Can you imagine a capasitor-less 2-way crossover that consist for just two coils and one resistor?
 The crossover is distortion free, because it is capacitor-free and it is phase coherent too.
+
+![Schematic](https://raw.githubusercontent.com/sdiraimondo/Acoustic-Reality-AR-SXO/main/22-76-large.jpg)
 
 Here are the functions of the AR-SXO:
 * L1 is controlling the slope of the tweeter - while killing the resonance frequency of it too.
