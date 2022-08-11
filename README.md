@@ -1,6 +1,5 @@
-# Acoustic-Reality-AR-SXO
+# Acoustic Reality AR-SXO - Minimal audio passive filter
 
-Acoustic Reality AR-SXO - Minimal audio passive filter
 A decade ago Acoustic Reality invented a capacitor-less serial crossover design for 2-way loudspeakers. Acoustic Reality has released the invention under the General Public License (GNU).
 
 Peter Thomsen,  Acoustic Reality - Denmark : I made the intention in year 2000. After several tests and analysis I released my AR-SXO hardware invention under the General Public License (GNU) in 2001, and it is still working :-)
